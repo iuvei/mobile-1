@@ -1,1 +1,0 @@
-var FTCBetNumbersConfig={fushi:{"100101":true,"100201":true,"100202":true,"100301":true},other:{"100203":true,"100204":true,"100303":true,"100401":true,"100402":true,"100403":true,"100501":true,"100502":true,"100601":true,"100602":true},danshi:{"100302":true}};

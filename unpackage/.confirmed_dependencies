@@ -1,0 +1,30 @@
+{
+  "index.html": {
+    "resources": [
+      "static/js/utils/FixedBetNumberConfig.js",
+      "static/js/utils/CreateChaseList.js",
+      "static/js/utils/NumberToChinese.js",
+      "static/css/iconfont.css",
+      "static/js/createConfig/fiveFromEleven.js",
+      "static/js/utils/Action.js",
+      "static/js/sessionstorage.js",
+      "static/js/createConfig/bjsc.js",
+      "static/js/utils/CreateSpecialBetItem.js",
+      "static/js/utils/NormalChooseNumber.js",
+      "static/js/flexible.js",
+      "static/js/createConfig/ks.js",
+      "static/js/createConfig/justifyStartConfig.js",
+      "static/js/utils/CalcChaseList.js",
+      "static/js/utils/CreateBetNumbers.js",
+      "static/js/createConfig/ssc.js",
+      "static/js/utils/CreateBetItem.js",
+      "static/js/md5.js",
+      "static/js/utils/CreateSpecialBetNumbers.js",
+      "static/css/animate.css",
+      "static/js/utils/CalcBetCount.js",
+      "static/css/base.css",
+      "static/js/utils/CalcBetCountConfig.js",
+      "static/js/utils/QuickCalc.js"
+    ]
+  }
+}
